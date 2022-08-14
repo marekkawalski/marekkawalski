@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marekkawalski&label=Profile%20views&color=0e75b6&style=flat" alt="marekkawalski" /> </p>
 
-
-
 <p align="left">
 <a href="https://linkedin.com/in/marekkawalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marekkawalski" height="30" width="40" /></a>
 </p>
@@ -15,4 +13,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marekkawalski&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkawalski&theme=dark)](https://github.com/marekkawalski/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marekkawalski&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkawalski&theme=dark&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
