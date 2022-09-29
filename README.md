@@ -42,7 +42,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marekkawalski&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marekkawalski&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=marekkawalski&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkawalski&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
