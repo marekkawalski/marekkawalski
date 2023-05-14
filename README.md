@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=25&center=true&width=435&lines=Hi+👋,+I'm+Marek" alt="Typing SVG" /></h1>
-<h3 align="center">A computer science student from Poland</h3>
+<h3 align="center">Fullstack developer and computer science student from Poland</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/marekkawalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marekkawalski" height="30" width="40" /></a>
