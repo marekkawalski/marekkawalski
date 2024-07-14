@@ -38,6 +38,6 @@
 
 [![Marek's GitHub stats](https://github-readme-stats.vercel.app/api?username=marekkawalski&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkawalski&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkawalski&theme=dark&langs_count=5&hide=c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marekkawalski&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
